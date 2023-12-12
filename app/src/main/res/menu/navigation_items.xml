@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/home"/>
+    <item
+        android:id="@+id/regis"
+        android:title="@string/register"
+        android:icon="@drawable/registration"/>
+    <item
+        android:id="@+id/login"
+        android:title="@string/login"
+        android:icon="@drawable/logout"/>
+</menu>

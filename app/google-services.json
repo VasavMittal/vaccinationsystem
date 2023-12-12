@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672310994518",
+    "project_id": "vaccinationsystem-182a8",
+    "storage_bucket": "vaccinationsystem-182a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672310994518:android:6bcff422186040e0b7fdf7",
+        "android_client_info": {
+          "package_name": "com.example.vaccinationsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672310994518-hekvahd9bdboi65ef4v79e9a3brsbfph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDANWzte6MNpmVw3X2cDatYl3unjgrPio4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672310994518-hekvahd9bdboi65ef4v79e9a3brsbfph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
